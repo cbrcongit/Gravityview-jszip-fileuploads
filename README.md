@@ -3,7 +3,7 @@
 Allows you to select all/any links and then download multiple files as a zip.
 
 
-![screenshot](Gravityview-jszip-fileuploads/gravity-zip.png)
+![screenshot](gravity-zip.png)
 
 
 
